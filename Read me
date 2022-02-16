@@ -3,3 +3,5 @@
 ## Artisan Command##
 
 ## Note : After the compile You should run the artisan migrate:reset, migrate and seed otherwise overite lastruns data ##
+
+##In This  folder inside their is a databse sql ##
