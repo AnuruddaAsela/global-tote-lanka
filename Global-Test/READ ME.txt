@@ -1,0 +1,6 @@
+
+## Anurudda Asela##
+
+## Artisan Command##
+
+## Note : After the compile You should run the artisan migrate:reset, migrate and seed otherwise overite lastruns data ##
